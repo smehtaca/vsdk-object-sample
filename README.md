@@ -1,6 +1,6 @@
 # Vault Java SDK Sample - vsdk-object-sample
 
-**Please see the [project wiki](https://github.com/veeva/vsdk-object-sample/wiki) for a detailed walkthrough.**
+**Please see the [project wiki](https://github.com/smehtaca/vsdk-object-sample/wiki) for a detailed walkthrough.**
 
 The vsdk-object-sample project covers the creation of a vSDK Product record and related vSDK Country Brand records. The project will step through:
 
